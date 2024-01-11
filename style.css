@@ -1,0 +1,30 @@
+/* style.css */
+
+body {
+    background: #e8f4f8; 
+}
+
+.flower {
+    display: block;
+    margin: 0 auto; 
+}
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #2a3750;
+    background-color: #adbce6;
+    text-align: center;
+    margin: 10px;
+    padding: 20px; 
+}
+
+.card {
+    margin: 0 auto;
+    padding: 10px; 
+    text-align: center;
+}
+.link {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 0px; 
+    background-color: #add8e6;
+    margin: 10px auto; 
+}
